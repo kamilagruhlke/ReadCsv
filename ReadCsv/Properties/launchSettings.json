@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReadCsv": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Kamila\\Documents\\Projects\\ReadCsv\\ReadCsv\\data.csv"
+    }
+  }
+}
